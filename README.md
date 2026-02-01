@@ -19,8 +19,8 @@ Enterprise AI often defaults to massive cloud models (GPT-4, Claude) for simple 
 
 ```bash
 # 1. Clone the repo
-git clone [https://github.com/YOUR_USERNAME/piitest.git](https://github.com/YOUR_USERNAME/piitest.git)
-cd piitest
+git clone [https://github.com/goagrawal-genai/PIITest.git](https://github.com/goagrawal-genai/PIITest.git)
+cd PIITest
 
 # 2. Install dependencies
 pip install -r requirements.txt
