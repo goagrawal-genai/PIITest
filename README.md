@@ -2,7 +2,7 @@
 
 A "Low Tech" Proof-of-Concept for running enterprise-grade PII (Personally Identifiable Information) scrubbing entirely on local hardware using Small Language Models (SLMs).
 
-**As seen in my [LinkedIn Article](#).**
+**As seen in my [LinkedIn Article](https://www.linkedin.com/pulse/8gb-barrier-why-enterprise-ai-needs-go-diet-gopal-agrawal-vgv9c).**
 
 ## The "Why"
 Enterprise AI often defaults to massive cloud models (GPT-4, Claude) for simple tasks. This project demonstrates that **Microsoft Phi-3 Mini** (3.8B parameters) can effectively identify and redact sensitive data on a standard 8GB laptop with:
